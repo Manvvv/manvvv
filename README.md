@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on full stack and AI-based projects like HAVEN (AI-powered SOS platform)  <br>🤝 I’m looking to collaborate on full stack and AI projects  <br>🧠 I’m currently learning advanced backend development and system design  <br>💬 Ask me about Node.js, APIs, MongoDB, and AI integrations  <br>🚀 Passionate about building real-world impactful applications  <br>⚡ Fun fact: I enjoy turning ideas into live, working products
+I’m currently working on full stack and AI-based projects   <br>🤝 I’m looking to collaborate on full stack and AI projects  <br>🧠 I’m currently learning advanced backend development and system design  <br>💬 Ask me about Node.js, APIs, MongoDB, and AI integrations  <br>🚀 Passionate about building real-world impactful applications  <br>⚡ Fun fact: I enjoy turning ideas into live, working products
 
 
 ## 🌐 Socials:
