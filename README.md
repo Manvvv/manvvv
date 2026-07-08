@@ -348,8 +348,9 @@ Building a strong engineering foundation through B.Tech Computer Science with sp
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manvvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=Manvvv&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manvvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Manvvv&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD" />
 
 <br />
 
@@ -376,18 +377,6 @@ Building a strong engineering foundation through B.Tech Computer Science with sp
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvvv&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&radius=12" width="100%" />
 
 </div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Manvvv/Manvvv/output/snake.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
 
 ## Current Focus
 
