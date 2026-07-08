@@ -259,27 +259,6 @@ Worked on full-stack web application development using the MERN stack, focusing 
 <tr>
 <td>
 
-### Student Developer & AI Product Builder  
-**ABES Institute of Technology**  
-`2024 – 2028`
-
-Building a strong engineering foundation through B.Tech Computer Science with specialization in Artificial Intelligence, project-based learning, coding practice, hackathons, and AI-powered product development.
-
-**Scope of Work**
-
-- Strengthening fundamentals in **DSA, OOP, Operating Systems, and software engineering**
-- Building AI-based applications using modern full-stack tools
-- Participating in hackathons to solve practical, time-constrained problems
-- Practicing competitive programming and problem solving on LeetCode
-- Creating technical projects with strong documentation and deployment-ready structure
-
-**Skills**
-
-`C++` `Python` `Java` `JavaScript` `DSA` `OOP` `AI Systems` `Hackathons`
-
-</td>
-</tr>
-</table>
 
 ---
 
