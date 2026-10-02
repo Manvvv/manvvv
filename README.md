@@ -268,9 +268,9 @@ Worked on full-stack web application development using the MERN stack, focusing 
 
 | Recognition | Details |
 |---|---|
-| LeetCode Problem Solving | Solved **100+ problems** on LeetCode |
-| Hackathon Participation | Participated in **10+ hackathons**, building practical solutions under deadlines |
-| AI-Based Product Builder | Built real-world AI-based applications including **VedaAI** and **HAVEN** |
+| LeetCode Problem Solving | Solved **250+ problems** on LeetCode |
+| Hackathon Participation | Participated in **25+ hackathons**, building practical solutions under deadlines |
+| AI-Based Product Builder | Built real-world AI-based applications including **Satquery** and **HAVEN** |
 | Full-Stack Development | Developed projects using **Next.js, React.js, Node.js, FastAPI, MongoDB, and MySQL** |
 | Creative Engineering | Combines software development with video editing, content creation, and creative problem solving |
 
